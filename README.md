@@ -14,9 +14,11 @@ My Account: https://github.com/Wim-Lotz
 3. CMD: `dotnet run`
 
 # Test
-- Browser https://localhost:5001 && http://localhost:5000
 
-# Insomnia
+#### Browser
+- URL https://localhost:5001 & http://localhost:5000
+
+#### Insomnia
 1. Create request collection
 2. Create new request `GET`: `https://localhost:5001`
 
